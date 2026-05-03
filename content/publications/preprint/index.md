@@ -1,59 +1,49 @@
 ---
-title: "An example preprint / working paper"
+title: "Pricing and Addiction Control for Digital Services"
 authors:
 - me
-date: "2019-04-07T00:00:00Z"
+- Xiao Lei
+- Feng Tian
+date: "2024-01-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["manuscript"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Working paper; major revision at *Manufacturing & Service Operations Management*; accepted to *The 21st Conference on Web and Internet Economics*"
+publication_short: "MSOM major revision; WINE 2025"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We study how digital service providers should jointly design pricing and addiction-control policies when platform engagement creates both firm value and potential user welfare concerns. The paper develops a dynamic framework for platform decision making and derives implications for pricing, platform design, and regulation in digital services.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Working paper on pricing and addiction-control design for digital services, under major revision at MSOM and accepted to WINE 2025.
 
 tags:
-- Large Language Models
+- Revenue Management
+- Digital Platforms
+- Consumer Behavior
 
 featured: true
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
+hugoblox: {}
 
 links:
-- type: preprint
-  provider: arxiv
-  id: 1512.04133v1
-- type: code
-  url: https://github.com/HugoBlox/kit
-- type: slides
-  url: https://www.slideshare.net/
-- type: dataset
-  url: "#"
-- type: poster
-  url: "#"
-- type: source
-  url: "#"
-- type: video
-  url: https://youtube.com
-- type: custom
-  label: Custom Link
-  url: http://example.org
+  - type: custom
+    label: SSRN
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4962550
+  - type: custom
+    label: Media Coverage
+    url: https://wap.ftchinese.com/interactive/200047?exclusive=
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ""
   focal_point: ""
   preview_only: false
 
@@ -62,8 +52,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/projects/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -72,10 +61,10 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+This paper is under major revision at *Manufacturing & Service Operations
+Management* and was accepted to The 21st Conference on Web and Internet
+Economics in 2025. It won second place in the INFORMS Behavioral Operations
+Management Best Working Paper Competition and was a finalist for the POMS-HK
+Best Student Paper Award in 2025. It has also received media coverage from the
+Chinese edition of the *Financial Times*. The paper is available on
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4962550).

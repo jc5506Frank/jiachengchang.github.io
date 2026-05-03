@@ -1,6 +1,6 @@
 ---
-title: 'Experience'
-date: 2023-10-24
+title: 'CV'
+date: 2026-05-03
 type: landing
 
 design:
@@ -10,24 +10,12 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience
+  - block: markdown
     content:
-      username: me
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: me
-  - block: resume-awards
-    content:
-      title: Awards
-      username: me
-  - block: resume-languages
-    content:
-      title: Languages
-      username: me
+      title: Download CV
+      subtitle: ''
+      text: |-
+        Please download my most recent CV here:
+
+        [Download Resume (PDF)](/uploads/resume.pdf)
 ---

@@ -1,1 +1,5 @@
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+{{ $customCSS := resources.Get "css/custom.css" }}
+{{ if $customCSS }}
+  {{ $customCSS = $customCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $customCSS.RelPermalink }}" integrity="{{ $customCSS.Data.Integrity }}">
+{{ end }}

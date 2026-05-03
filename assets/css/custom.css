@@ -1,0 +1,94 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #0f172a;
+  background: #f8fafc;
+}
+
+a {
+  text-underline-offset: 0.18em;
+}
+
+.navbar,
+header {
+  border-bottom: 1px solid rgba(15, 23, 42, 0.08);
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);
+}
+
+section {
+  position: relative;
+}
+
+section:nth-of-type(n + 2) {
+  border-top: 1px solid rgba(15, 23, 42, 0.06);
+}
+
+section h2,
+.section-heading h1,
+.section-heading h2 {
+  letter-spacing: -0.03em;
+}
+
+.prose h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.35rem;
+  color: #0f172a;
+  font-size: 1.15rem;
+}
+
+.prose h3:first-child {
+  margin-top: 0;
+}
+
+.prose p {
+  color: #334155;
+}
+
+.prose ul {
+  margin-top: 0.85rem;
+}
+
+.prose li {
+  margin-top: 0.35rem;
+  color: #334155;
+}
+
+.prose strong {
+  color: #0f172a;
+}
+
+.prose a {
+  color: #1d4ed8;
+  font-weight: 600;
+  text-decoration-color: rgba(29, 78, 216, 0.3);
+}
+
+.prose a:hover {
+  color: #0f766e;
+  text-decoration-color: rgba(15, 118, 110, 0.45);
+}
+
+.prose > h3:not(:first-child) {
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(15, 23, 42, 0.08);
+}
+
+#papers .container,
+#teaching .container,
+#presentations .container,
+#papers .max-w-prose,
+#teaching .max-w-prose,
+#presentations .max-w-prose,
+#papers .prose,
+#teaching .prose,
+#presentations .prose {
+  max-width: min(760px, calc(100vw - 3rem));
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.dark body {
+  background: #0f172a;
+}
