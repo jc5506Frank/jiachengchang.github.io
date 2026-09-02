@@ -24,13 +24,13 @@ publishDate: '2025-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "Working paper; accepted to *The 25th International Conference on Autonomous Agents and Multiagent Systems* and under review at *Management Science*"
-publication_short: "AAMAS 2025; Management Science under review"
+publication: "Working paper; major revision at *Management Science*; accepted to *The 25th International Conference on Autonomous Agents and Multiagent Systems*"
+publication_short: "Management Science major revision; AAMAS 2026"
 
 abstract: This paper studies the adaptive design of in-app advertising games using a data-driven methodology validated with field experiments. The project combines platform design, experimentation, and empirical analysis to understand how advertising game mechanics can improve user engagement and platform outcomes.
 
 # Summary. An optional shortened abstract.
-summary: Working paper on in-app advertising game design, accepted to AAMAS 2025 and under review at Management Science.
+summary: Working paper on in-app advertising game design, under major revision at Management Science and accepted to AAMAS 2026.
 
 tags:
   - Digital Platforms
@@ -48,6 +48,9 @@ links:
   - type: custom
     label: SSRN
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6137709
+  - type: custom
+    label: Media Coverage
+    url: https://news.qq.com/rain/a/20251224A07LMV00?suid=&media_id=
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -73,5 +76,7 @@ slides: ""
 This project develops a data-driven methodology for in-app advertising game design
 and validates its effectiveness with field experiments. The paper was accepted to
 The 25th International Conference on Autonomous Agents and Multiagent Systems in
-2025 and is currently under review at *Management Science*. The paper is available
-on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6137709).
+2026 and is under major revision at *Management Science*. It has received media
+coverage from [Tencent News](https://news.qq.com/rain/a/20251224A07LMV00?suid=&media_id=),
+and the paper is available on
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6137709).

@@ -15,13 +15,13 @@ publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["manuscript"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Working paper; major revision at *Manufacturing & Service Operations Management*; accepted to *The 21st Conference on Web and Internet Economics*"
-publication_short: "MSOM major revision; WINE 2025"
+publication: "Working paper; second-round major revision at *Manufacturing & Service Operations Management*; accepted to *The 21st Conference on Web and Internet Economics*"
+publication_short: "MSOM second-round major revision; WINE 2025"
 
 abstract: We study how digital service providers should jointly design pricing and addiction-control policies when platform engagement creates both firm value and potential user welfare concerns. The paper develops a dynamic framework for platform decision making and derives implications for pricing, platform design, and regulation in digital services.
 
 # Summary. An optional shortened abstract.
-summary: Working paper on pricing and addiction-control design for digital services, under major revision at MSOM and accepted to WINE 2025.
+summary: Working paper on pricing and addiction-control design for digital services, under second-round major revision at MSOM and accepted to WINE 2025.
 
 tags:
 - Revenue Management
@@ -61,7 +61,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-This paper is under major revision at *Manufacturing & Service Operations
+This paper is under second-round major revision at *Manufacturing & Service Operations
 Management* and was accepted to The 21st Conference on Web and Internet
 Economics in 2025. It won second place in the INFORMS Behavioral Operations
 Management Best Working Paper Competition and was a finalist for the POMS-HK

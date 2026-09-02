@@ -41,7 +41,7 @@ sections:
 
         *Jiacheng Chang, Xiao Lei, and Feng Tian*
 
-        - Major revision at *Manufacturing & Service Operations Management*.
+        - Second-round major revision at *Manufacturing & Service Operations Management*.
         - Accepted to The 21st Conference on Web and Internet Economics, 2025.
         - Second Place, INFORMS Behavioral Operations Management Best Working Paper Competition, 2025.
         - Finalist, POMS-HK Best Student Paper Award, 2025.
@@ -52,9 +52,10 @@ sections:
 
         *Jiacheng Chang, Xiao Lei, Zhixi Wan, and Lei Huang*
 
-        - Accepted to The 25th International Conference on Autonomous Agents and Multiagent Systems, 2025.
-        - Under review at *Management Science*.
+        - Major revision at *Management Science*.
+        - Accepted to The 25th International Conference on Autonomous Agents and Multiagent Systems, 2026.
         - SSRN: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6137709](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6137709).
+        - Media coverage: [Tencent News (Mandarin)](https://news.qq.com/rain/a/20251224A07LMV00?suid=&media_id=).
     design:
       columns: '1'
       background:
@@ -68,6 +69,7 @@ sections:
         ### The University of Hong Kong
 
         - Teaching Assistant, MSBA Deep Learning, 2022-2026.
+          - Overall tutor score: 94.6/100 (departmental average: 92.3/100).
         - Teaching Assistant, MSBA Capstone Project, 2023.
 
         ### Columbia University
