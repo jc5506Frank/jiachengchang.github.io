@@ -85,7 +85,7 @@ sections:
       title: Conference Presentations
       subtitle: ''
       text: |-
-        ### Upcoming
+        ### 2026
 
         - 2026 INFORMS Annual Meeting, San Francisco, US.
         - 2026 INFORMS Revenue Management and Pricing Conference, Michigan, US.
